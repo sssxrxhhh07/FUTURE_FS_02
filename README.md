@@ -107,7 +107,7 @@ MiniCRM/
  Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/minicrm-dashboard.git
+git clone https://github.com/sssxrxhhh07/minicrm-dashboard.git
 ````
 
  Open Project
